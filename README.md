@@ -51,7 +51,8 @@ Muestra cuántos contratos se han hecho hasta la fecha.
 
 ## Herencia
 **ClubFutbol**  
-Se pide implementar las clases de la imagen. Para hacerlo de forma eficiente tenéis que tener en cuenta qué atributos y métodos se repiten para extraerlos a la clase base. Los métodos concentrar y viajar mostrarán "\<nombre\> se concentra". Los métodos concetrar y viajar en cada clase ampliarán dicho mensaje para que aparezca el nombre de la clase y algún atributo propio. Por ejemplo: "El Futbolista con dorsal \<numero\> y nombre: \<nombre\> se concentra".
+Se pide implementar las clases de la imagen. Para hacerlo de forma eficiente tenéis que tener en cuenta qué atributos y métodos se repiten para extraerlos a la clase base. Los métodos concentrar y viajar mostrarán "\<nombre\> se concentra". Los métodos concetrar y viajar en cada clase ampliarán dicho mensaje para que aparezca el nombre de la clase y algún atributo propio. Por ejemplo: "El Futbolista con dorsal \<numero\> y nombre: \<nombre\> se concentra".  
+
 ![](/4.Herencia/ClubFutbol/herencia.png)
   
 **BonoBus**  
