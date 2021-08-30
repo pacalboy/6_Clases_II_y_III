@@ -66,7 +66,8 @@ Adaptar el ejercicio del personal del **club de fútbol** a clase abstracta.
 Adaptar la jerarquía del **bonoBus** a clases abstractas utilizando una clase BonoReducido y otra Bono, no instanciables.
 
 ## Interface
-Se pide implementar las clases de las imágenes.
+Se pide implementar las clases de las imágenes.  
+
 **Resizable**  
 
 ![](/6.Interface/resizable.png)  
