@@ -1,5 +1,5 @@
 # 6_Clases_II_y_III
-Creación de clases. Creación de jerarquía de clases.
+Creación de clases. Creación de jerarquía de clases, herencia, interfaces y clases abstractas.
 
 ## Repaso Clases I
 Crea una clase **Vehiculo** cuyos atributos sean máximo número de pasajeros, número actual de pasajeros, motor, peso y matrícula. Crea un constructor por defecto, un constructor completo y un constructor que sólo reciba motor y matrícula. Crea getters de todos los atributos y setters de peso, motor y pasajeros. Crea el método toString. Crea un método que sea transportar y reciba un número de pasajeros. La funcionalidad de este método será añadir los pasajeros pasados como parámetro al número actual de pasajeros. Crea un método descargar pasajeros que establezca el número actual de pasajeros a 0.  
